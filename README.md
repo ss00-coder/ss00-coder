@@ -33,6 +33,6 @@
 
 <div align=left>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss00-coder&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=ss00-coder&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ss00-coder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical">
 </div>
 <br>
