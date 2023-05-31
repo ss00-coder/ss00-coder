@@ -8,7 +8,7 @@
 👶 1996.11.08 <br>
 📞 010-7252-5144 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:seinee114@gmail.com) <span><a href="https://www.notion.so/616157e577c54c20a04f242238e67801"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ss00-coder@gmail.com)](mailto:ss00-coder@gmail.com) <span><a href="https://www.notion.so/febcbd69d90b49c3b44e3593e25612ba"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
