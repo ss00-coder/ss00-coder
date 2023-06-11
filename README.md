@@ -32,7 +32,7 @@
 
 
 <div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss00-coder&layout=compact(https://github.com/ss00-coder/ss00-coder)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss00-coder&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=ss00-coder&show_icons=true">
 </div>
 <br>
